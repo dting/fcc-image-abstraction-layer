@@ -1,0 +1,28 @@
+{
+  "name": "image-abstraction-layer",
+  "version": "0.1.0",
+  "description": "FCC image abstraction layer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4",
+    "request": "^2.67.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dting/fcc-image-abstraction-layer"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
